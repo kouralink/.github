@@ -22,7 +22,7 @@ We believe in the power of collaboration. If you're passionate about football an
 
 ## Community and Support
 
-Join our community on [Discussions](https://github.com/KouraLink/KouraLink/discussions) to share your ideas, ask questions, or connect with fellow members. For support, raise an issue or reach out to us at [support@kouralink.com](mailto:support@kouralink.com).
+Join our community on [Discussions](https://github.com/KouraLink/KouraLink/discussions) to share your ideas, ask questions, or connect with fellow members. For support, raise an issue or reach out to us at [kouralink@gmail.com](mailto:kouaralink@gmail.com).
 
 Let's kick off an exciting journey with KouraLink – where football connects us all!
 
